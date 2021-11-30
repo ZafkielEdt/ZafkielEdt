@@ -4,7 +4,7 @@
 </p>
 
 Hey there! My name is Franco.
-Currently, I am studying to will be a Full Stack Developer.
+Currently, I am studying to will be a Web Full Stack Developer.
 
 
 ### Languages and Tools I know and Study
