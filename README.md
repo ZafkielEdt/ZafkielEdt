@@ -21,5 +21,5 @@ Currently, I am studying to will be a Full Stack Web Developer.
 
 
 
-| <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancoGL&count_private=true&show_icons=true&theme=radical"/></a> | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoGL&layout=compact&theme=radical"/></a> |
+| <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api?username=FrancoGL&count_private=true&show_icons=true&theme=radical"/></a> | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=FrancoGL&layout=compact&theme=radical"/></a> |
 | ------------- | ------------- |
