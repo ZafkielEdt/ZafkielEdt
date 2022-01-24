@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h1>
 <p align="center">
-<a href="#"><img src="https://i.imgur.com/ZcyI7hp.png)" height="100%" width="100%" /></a>
+<a href="#"><img src="https://imgur.com/4Qkp16q.png)" height="100%" width="100%" /></a>
 </p>
 
 Hey there! My name is Franco.
@@ -21,5 +21,5 @@ Currently, I am studying to will be a Full Stack Web Developer.
 
 
 
-| <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api?username=FrancoGL&count_private=true&show_icons=true&theme=radical"/></a> | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=FrancoGL&layout=compact&theme=radical"/></a> |
+| <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api?username=FrancoGL&count_private=true&show_icons=true&theme=tokyonight"/></a> | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=FrancoGL&layout=compact&theme=tokyonight"/></a> |
 | ------------- | ------------- |
