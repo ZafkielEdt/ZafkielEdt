@@ -20,10 +20,10 @@
       * Listening Music (JPop, Rock, Future Funk and more)
   
 </div>
-
+<br>
 <div>
   
-  <h2>✉️ Contact me:</h2>
+  <h2>✉️ Contact me</h2>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/franco-lorca/" target="_blank">
