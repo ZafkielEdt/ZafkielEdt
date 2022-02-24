@@ -9,16 +9,21 @@
   
   <img src="https://media.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.gif" align="right" width="20%"/>
   
-  Hey there! My name is Franco.
+  <p>Hey there! My name is Franco.</p>
   
-  * I'm 22 years old and I live in Argentina.
-  * Currently, I am studying to will be a Java Developer.
-  * I like:
-      * Anime and Manga
-      * Draw
-      * Read
-      * Listening Music (JPop, Rock, Future Funk and more)
-  
+  <ul>
+    <li>I'm 22 years old and I live in Argentina.</li>
+    <li>Currently, I am studying to will be a Java Developer.</li>
+    <li>
+      I like:
+      <ul>
+        <li>Anime and Manga</li>
+        <li>Draw</li>
+        <li>Read</li>
+        <li>Listening Music (JPop, Rock, Future Funk and more)</li>
+      </ul>
+    </li>
+  </ul>
 </div>
 <br>
 <div>
