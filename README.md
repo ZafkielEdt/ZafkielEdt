@@ -26,19 +26,6 @@
   </ul>
 </div>
 <br>
-<div>
-  
-  <h2>✉️ Contact me</h2>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/franco-lorca/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-     <a href="lorcafrancog@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-    </a>
-</div>
-</div>
 
 ## 🛠 Languages and Tools I know and Study
 <div id="tools_and_languages" align="center">
@@ -76,6 +63,21 @@
     <img src="https://img.shields.io/badge/IntelliJIDEA-e1357a.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
     </a>
 </div>
+<br>
+<div>
+  
+  <h2>✉️ Contact me</h2>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/franco-lorca/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+     <a href="lorcafrancog@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+    </a>
+</div>
+</div>
+
 
 ---
 
