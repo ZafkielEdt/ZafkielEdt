@@ -17,7 +17,7 @@
     <li>
       I like:
       <ul>
-        <li>Learning new things<li>
+        <li>Learning new things</li>
         <li>Anime and Manga</li>
         <li>Draw</li>
         <li>Read</li>
