@@ -33,11 +33,11 @@
     <a href="https://dev.java/" target="_blank">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
     </a>
-    <a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </a>
-    <a href="https://www.thymeleaf.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+    <a href="https://spring.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
     </a>
     <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -56,6 +56,9 @@
     </a>
     <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/mysql-6A5ACD.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
+    <a href="https://junit.org/junit5/">
+    <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
     </a>
     <a href="https://www.adobe.com/la/products/photoshop.html" target="_blank">
     <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
