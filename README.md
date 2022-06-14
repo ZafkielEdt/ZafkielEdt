@@ -13,7 +13,7 @@
   
   <ul>
     <li>I'm 22 years old and I live in Argentina.</li>
-    <li>Currently, I am studying to will be a Java Developer.</li>
+    <li>Currently, I am studying at <a href="https://www.ispc.edu.ar">ISPC</a>.</li>
     <li>
       I like:
       <ul>
