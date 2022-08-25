@@ -19,7 +19,7 @@ jobs:
         # Options
           user: FrancoGL
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
           config_timezone: America/Buenos_Aires
           # Achievements
           plugin_achievements: yes
@@ -29,3 +29,9 @@ jobs:
           # ISO Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          # AniList
+          plugin_anilist: yes
+          plugin_anilist_user: Daletkiel
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 2
