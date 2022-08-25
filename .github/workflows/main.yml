@@ -14,7 +14,6 @@ jobs:
     steps:
     
       - name: General
-        if: ${{ success() || failure() }}
         uses: FrancoGL/metrics@master
         with:
           filename: general.svg
@@ -38,6 +37,8 @@ jobs:
         uses: FrancoGL/metrics@master
         with:
           filename: medias.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
           # AniList
           plugin_anilist: yes
           plugin_anilist_user: Daletkiel
