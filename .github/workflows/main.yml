@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
         # Display
-          #config_display: columns
+          config_display: columns
         # Options
           user: FrancoGL
           template: classic
