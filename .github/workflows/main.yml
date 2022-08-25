@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 16 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -12,8 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: FrancoGL/metrics@master
+    
+      - name: General
+        if: ${{ success() || failure() }}
+        uses: FrancoGL/metrics@master
         with:
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
         # Display
           config_display: columns
@@ -30,6 +34,12 @@ jobs:
           # ISO Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+      - name: Medias
+        if: ${{ success() || failure() }}
+        uses: FrancoGL/metrics@master
+        with:
+          filename: medias.svg
           # AniList
           plugin_anilist: yes
           plugin_anilist_user: Daletkiel
