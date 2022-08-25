@@ -15,6 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
+          plugin_anilist_user: Daletkiel
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading, characters
           plugin_anilist_limit: 4
@@ -39,3 +40,4 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          plugin_isocalendar: yes
