@@ -39,4 +39,4 @@ jobs:
           # Order
           config_order: isocalendar, achievements, anilist
           # Display
-          config_display: large
+          config_display: columns
