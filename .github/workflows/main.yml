@@ -19,8 +19,6 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-        # Display
-          config_display: columns
         # Options
           user: FrancoGL
           template: classic
