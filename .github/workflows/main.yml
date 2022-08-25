@@ -19,8 +19,6 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
         # Options
-          user: FrancoGL
-          template: classic
           base: ""
           config_timezone: America/Buenos_Aires
           # Achievements
