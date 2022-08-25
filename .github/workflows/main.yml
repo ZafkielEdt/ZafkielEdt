@@ -35,3 +35,6 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, characters
           plugin_anilist_limit: 3
+          
+          # Order
+          config_order: isocalendar, achievements, anilist
