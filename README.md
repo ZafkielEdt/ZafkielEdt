@@ -89,3 +89,9 @@
 | ------------- | ------------- |
 
 
+<div>
+  <img align="top" src="/general.svg" alt="Metrics">
+  <img src="/achievements.svg" alt="Metrics">
+</div>
+
+<div align="center"><img  src="/medias.svg" alt="Metrics"></div>
