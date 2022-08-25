@@ -90,8 +90,8 @@
 
 
 <div>
-  <img align="top" src="/general.svg" alt="Metrics">
-  <img src="/achievements.svg" alt="Metrics">
+  <img align="top" src="/general.svg" alt="Metrics" width="45%">
+  <img src="/achievements.svg" alt="Metrics" width="45%">
 </div>
 
 <div align="center"><img  src="/medias.svg" alt="Metrics"></div>
