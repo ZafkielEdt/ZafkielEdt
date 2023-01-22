@@ -31,56 +31,40 @@
 ## 🛠 Languages and Tools I know and Study
 <div id="tools_and_languages" align="center">
     <a href="https://dev.java/" target="_blank">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://skillicons.dev/icons?i=java">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+        <img src="https://skillicons.dev/icons?i=js">
     </a>
     <a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+        <img src="https://skillicons.dev/icons?i=spring">
     </a>
     <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://skillicons.dev/icons?i=html">
     </a>
     <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://skillicons.dev/icons?i=css">
     </a>
-    <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+    <a href="https://sass-lang.com/" target="_blank" style="margin-right: 1rem">
+        <img src="https://skillicons.dev/icons?i=sass">
     </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <a href="https://git-scm.com/" target="_blank" style="margin-right: 1rem">
+        <img src="https://skillicons.dev/icons?i=git">
     </a>
-    <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mysql-6A5ACD.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    </a>
-    <a href="https://junit.org/junit5/">
-    <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+    <a href="https://www.mysql.com/" target="_blank" style="margin-right: 1rem">
+        <img src="https://skillicons.dev/icons?i=mysql">
     </a>
     <a href="https://www.adobe.com/la/products/photoshop.html" target="_blank">
-    <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+        <img src="https://skillicons.dev/icons?i=ps">
     </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://img.shields.io/badge/IntelliJIDEA-e1357a.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <a href="https://www.jetbrains.com/es-es/idea/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=idea">
+    </a>
+    <a href="https://code.visualstudio.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode">
     </a>
 </div>
 <br>
-<div>
-  
-  <h2>✉️ Contact me</h2>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/franco-lorca/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-     <a href="lorcafrancog@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-    </a>
-</div>
-</div>
 
 
 ---
