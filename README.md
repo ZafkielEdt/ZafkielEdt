@@ -5,7 +5,7 @@
 
 <div>
   
-  <h2> 🚀 About Me </h2>
+  <h2 align="top"> <img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="60"> About Me </h2>
   
   <img src="https://media.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.gif" align="right" width="25%"/>
   
@@ -28,9 +28,10 @@
 </div>
 <br/>
 <br/>
+  
+<!--🛠-->
 
-
-## 🛠 Languages and Tools I know and Study
+## <img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="60"> Languages and Tools I know and Study
 <div id="tools_and_languages" align="center">
     <a href="https://dev.java/" target="_blank">
         <img src="https://skillicons.dev/icons?i=java">
