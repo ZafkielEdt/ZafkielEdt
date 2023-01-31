@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!<a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h1>
 <p align="center">
-<a href="#"><img src="https://imgur.com/4Qkp16q.png" height="100%" width="100%" /></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/66887467/215903944-06d7e4a4-ae74-45b3-a8fd-85ef3615a3c5.png" height="100%" width="100%" /></a>
 </p>
 
 <div>
