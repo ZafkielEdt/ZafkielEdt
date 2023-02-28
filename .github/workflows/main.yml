@@ -20,17 +20,22 @@ jobs:
           plugin_anilist_sections: favorites, watching, reading, characters
           plugin_anilist_limit: 4
           plugin_anilist_limit_characters: 22
-
-      - name: Achievements
-        if: ${{ success() || failure() }}
-        uses: FrancoGL/metrics@master
+      
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
         with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
+          devcard_id: ${{ secrets.DEV_CARD_ID }
+          
+      #- name: Achievements
+        #if: ${{ success() || failure() }}
+        #uses: FrancoGL/metrics@master
+        #with:
+          #filename: achievements.svg
+          #token: ${{ secrets.METRICS_TOKEN }}
+          #base: ""
+          #plugin_achievements: yes
+          #plugin_achievements_display: compact
+          #plugin_fortune: yes
 
 
       - name: General
