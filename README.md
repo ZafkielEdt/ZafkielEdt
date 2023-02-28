@@ -75,9 +75,7 @@
 | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api?username=FrancoGL&count_private=true&show_icons=true&theme=aura"/></a> | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=FrancoGL&hide=papyrus&layout=compact&theme=aura"/></a> |
 | ------------- | ------------- |
 
+
 [<img align="left" src="/general.svg" alt="Metrics" width="390">](#)
 [<img align="right" src="/medias.svg" alt="Metrics" width="390">](#)
-[<img align="left" src="/achievements.svg" alt="Metrics" width="40%">](#)
-
-
-<!--<div align="center"><img  src="/medias.svg" alt="Metrics"></div>-->
+[<img align="left" src="https://media.tenor.com/1P2shrN7q20AAAAC/aesthetic-anime.gif" width="390">](#)
