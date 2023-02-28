@@ -24,7 +24,7 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: ${{ secrets.DEV_CARD_ID }
+          devcard_id: ${{ secrets.DEV_CARD_ID }}
           
       #- name: Achievements
         #if: ${{ success() || failure() }}
