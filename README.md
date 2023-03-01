@@ -1,38 +1,33 @@
-<h1 align="center">Welcome!<a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h1>
-<p align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/66887467/215903944-06d7e4a4-ae74-45b3-a8fd-85ef3615a3c5.png" height="100%" width="100%" /></a>
-</p>
+<body>
+<div align="center">
+    <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FF3232&center=true&width=435&lines=Welcome++to+my+profile+visitor" alt="Typing SVG" /></a>
+    <img src="https://user-images.githubusercontent.com/66887467/215903944-06d7e4a4-ae74-45b3-a8fd-85ef3615a3c5.png" height="100%" width="100%" />
+</div>
 
 <div>
-  
-  <h2 align="top"> <img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="60"> About Me </h2>
-  
-  <img src="https://media.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.gif" align="right" width="25%"/>
-  
-  <p>Hey there! My name is Franco.</p>
-  
-  <ul>
-    <li>I'm 22 years old and I live in Argentina.</li>
-    <li>Currently, I am studying at <a href="https://www.ispc.edu.ar">ISPC</a>.</li>
-    <li>
-      I like:
-      <ul>
-        <li>Learn new things</li>
-        <li>Anime and Manga</li>
-        <li>Draw</li>
-        <li>Read</li>
-        <li>Listening Music (JPop, Rock, Future Funk and more)</li>
-      </ul>
-    </li>
-  </ul>
+    <h2 align="center"><img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="40">  About Me  <img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="40"></h2>
+    <img src="https://media.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.gif" align="right" width="25%"/>
+    <p>Hey there! My name is Franco.</p>
+    <ul>
+      <li>I'm 22 years old and I live in Argentina.</li>
+        <li>Currently, I am studying at <a href="https://www.ispc.edu.ar">ISPC</a>.</li>
+        <li>
+          I like:
+          <ul>
+            <li>Learn new things</li>
+            <li>Anime and Manga</li>
+            <li>Draw</li>
+            <li>Read</li>
+            <li>Listening Music (JPop, Rock, Future Funk and more)</li>
+          </ul>
+      </li>
+    </ul>
 </div>
-<br/>
-<br/>
-  
-<!--🛠-->
 
-## <img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="60"> Languages and Tools I know and Study
-<div id="tools_and_languages" align="center">
+<div>
+    <h2 align="center"><img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50"> Languages and Tools I know and Study  <img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50"></h2>
+    <div id="tools_and_languages" align="center">
     <a href="https://dev.java/" target="_blank">
         <img src="https://skillicons.dev/icons?i=java">
     </a>
@@ -67,8 +62,10 @@
         <img src="https://skillicons.dev/icons?i=vscode">
     </a>
 </div>
-<br>
+</div>
 
+<div>
+<h2 align="center"><img src="https://media.tenor.com/2dEV_78y1H4AAAAi/game-anime.gif" width="30">  Random Stuffs  <img src="https://media.tenor.com/2dEV_78y1H4AAAAi/game-anime.gif" width="30"></h2>
 
 ---
 
@@ -79,3 +76,5 @@
 [<img align="left" src="/general.svg" alt="Metrics" width="390">](#)
 [<img align="right" src="/medias.svg" alt="Metrics" width="390">](#)
 [<img align="left" src="https://media.tenor.com/1P2shrN7q20AAAAC/aesthetic-anime.gif" width="390">](#)
+</div>
+</body>
