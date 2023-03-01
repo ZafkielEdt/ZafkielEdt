@@ -25,7 +25,8 @@
       </li>
     </ul>
 </div>
-
+<br>
+<br>
 <div>
     <h2 align="center"><img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50">   Languages and Tools I know and Study<img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50"></h2>
     <div id="tools_and_languages" align="center">
@@ -68,7 +69,7 @@
 <div>
 <h2 align="center"><img src="https://media.tenor.com/2dEV_78y1H4AAAAi/game-anime.gif" width="30">  Random Stuffs  <img src="https://media.tenor.com/2dEV_78y1H4AAAAi/game-anime.gif" width="30"></h2>
 
----
+
 
 | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api?username=FrancoGL&count_private=true&show_icons=true&theme=aura"/></a> | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=FrancoGL&hide=papyrus&layout=compact&theme=aura"/></a> |
 | ------------- | ------------- |
