@@ -26,7 +26,7 @@
     </ul>
 </div>
 <br>
-<br>
+
 <div>
     <h2 align="center"><img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50">   Languages and Tools I know and Study<img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50"></h2>
     <div id="tools_and_languages" align="center">
