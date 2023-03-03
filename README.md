@@ -71,7 +71,7 @@
 
 
 
-| <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api?username=FrancoGL&count_private=true&show_icons=true&theme=aura"/></a> | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=FrancoGL&hide=papyrus&layout=compact&theme=aura"/></a> |
+| <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api?username=FrancoGL&count_private=true&show_icons=true&theme=aura"/></a> | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=FrancoGL&layout=compact&theme=aura"/></a> |
 | ------------- | ------------- |
 
 
