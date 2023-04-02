@@ -11,7 +11,6 @@
     <img src="https://media.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.gif" align="right" width="25%"/>
     <ul>
         <li><b>Name:</b> Franco</li>
-        <li><b>Currenly:</b> studying at <a href="https://www.ispc.edu.ar">ISPC</a></li>
         <li><b>Hobby:</b> Tech stuff, web develoment, design, anime/manga, games, music, draw.</li>
     </ul>
     <p>Currently, I am studying at <a href="https://www.ispc.edu.ar">ISPC</a> to become a Web Developer.
