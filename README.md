@@ -7,28 +7,21 @@
 </div>
 
 <div>
-    <h2 align="center"><img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="40">  About Me  <img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="40"></h2>
+    <h2 align="center"><img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="40"> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="40"></h2>
     <img src="https://media.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.gif" align="right" width="25%"/>
-    <p>Hey there! My name is Franco.</p>
     <ul>
-      <li>I'm 22 years old and I live in Argentina.</li>
-        <li>Currently, I am studying at <a href="https://www.ispc.edu.ar">ISPC</a>.</li>
-        <li>
-          I like:
-          <ul>
-            <li>Learn new things</li>
-            <li>Anime and Manga</li>
-            <li>Draw</li>
-            <li>Read</li>
-            <li>Listening Music (JPop, Rock, Future Funk and more)</li>
-          </ul>
-      </li>
+        <li><b>Name:</b> Franco</li>
+        <li><b>Currenly:</b> studying at <a href="https://www.ispc.edu.ar">ISPC</a></li>
+        <li><b>Hobby:</b> Tech stuff, web develoment, design, anime/manga, games, music, draw.</li>
     </ul>
+    <p>Currently, I am studying at <a href="https://www.ispc.edu.ar">ISPC</a> to become a Web Developer.
+    <br>On my Github you can find some projects solutions from Frontend Mentor(FEMC) <br> and FreeCodeCamp(FCC).
+    </p>
 </div>
 <br>
 
 <div>
-    <h2 align="center"><img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50">   Languages and Tools I know and Study<img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50"></h2>
+    <h2 align="center"><img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50">   𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨 𝙄 𝙠𝙣𝙤𝙬 𝙖𝙣𝙙 𝙎𝙩𝙪𝙙𝙮<img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50"></h2>
     <div id="tools_and_languages" align="center">
     <a href="https://dev.java/" target="_blank">
         <img src="https://skillicons.dev/icons?i=java">
@@ -67,7 +60,7 @@
 </div>
 
 <div>
-<h2 align="center"><img src="https://media.tenor.com/2dEV_78y1H4AAAAi/game-anime.gif" width="30">  Random Stuffs  <img src="https://media.tenor.com/2dEV_78y1H4AAAAi/game-anime.gif" width="30"></h2>
+<h2 align="center"><img src="https://media.tenor.com/2dEV_78y1H4AAAAi/game-anime.gif" width="30">  𝙍𝙖𝙣𝙙𝙤𝙢 𝙎𝙩𝙪𝙛𝙛𝙨  <img src="https://media.tenor.com/2dEV_78y1H4AAAAi/game-anime.gif" width="30"></h2>
 
 
 
