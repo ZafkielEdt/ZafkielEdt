@@ -19,7 +19,11 @@
     </p>
 </div>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+ 
 <div>
     <h2 align="center"><img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50">   𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨 𝙄 𝙠𝙣𝙤𝙬 𝙖𝙣𝙙 𝙎𝙩𝙪𝙙𝙮<img src="https://media.tenor.com/Ad9Ay6exorUAAAAi/nichijou-sakamoto.gif" width="50"></h2>
     <div id="tools_and_languages" align="center">
