@@ -8,18 +8,13 @@
 
 <div>
     <h2 align="center"><img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="40"> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img src="https://media.tenor.com/qiYC04fUus0AAAAi/rainbow-pls-bttv.gif" width="40"></h2>
-    <img src="https://media.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.gif" align="right" width="25%"/>
+    <img src="https://media.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.gif" align="right" width="15%"/>
     <ul>
         <li><b>Name:</b> Franco</li>
         <li><b>Hobby:</b> Tech stuff, web develoment, design, anime/manga, games, music, draw.</li>
+        <li><b>Currently:</b> I am studying at <a href="https://www.ispc.edu.ar">ISPC.</li>
     </ul>
-    <p>Currently, I am studying at <a href="https://www.ispc.edu.ar">ISPC</a> to become a Web Developer.
-    <br>On my Github you can find some projects solutions from Frontend Mentor(FEMC) <br> and FreeCodeCamp(FCC).
-    </p>
 </div>
-<br>
-<br>
-<br>
 <br>
 <br>
  
