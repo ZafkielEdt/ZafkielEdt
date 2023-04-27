@@ -1,9 +1,11 @@
 <body>
 <div align="center">
-    <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28">
+    <!--<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28">
     <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF3232&center=true&width=435&lines=Welcome++to+my+profile+visitor" alt="Typing SVG" /></a>
     <img src="https://user-images.githubusercontent.com/66887467/215903944-06d7e4a4-ae74-45b3-a8fd-85ef3615a3c5.png" height="100%" width="100%" />
+    -->
+    <img src="https://user-images.githubusercontent.com/66887467/234987234-4b3e4169-c755-423f-a532-51ed7d2d8995.png" height="100%" width="100%" />
 </div>
 
 <div>
