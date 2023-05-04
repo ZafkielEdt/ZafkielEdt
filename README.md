@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF3232&center=true&width=435&lines=Welcome++to+my+profile+visitor" alt="Typing SVG" /></a>
     <img src="https://user-images.githubusercontent.com/66887467/215903944-06d7e4a4-ae74-45b3-a8fd-85ef3615a3c5.png" height="100%" width="100%" />
     -->
-    <img src="https://user-images.githubusercontent.com/66887467/234987234-4b3e4169-c755-423f-a532-51ed7d2d8995.png" height="100%" width="100%" />
+    <img src="https://user-images.githubusercontent.com/66887467/236269389-0bb2e163-1e89-4b23-bf94-ea7b1405d5d9.png" height="100%" width="100%" />
 </div>
 
 <div>
