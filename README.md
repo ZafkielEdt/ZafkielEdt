@@ -1,11 +1,6 @@
 <body>
 <div align="center">
-    <!--<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28">
-    <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF3232&center=true&width=435&lines=Welcome++to+my+profile+visitor" alt="Typing SVG" /></a>
-    <img src="https://user-images.githubusercontent.com/66887467/215903944-06d7e4a4-ae74-45b3-a8fd-85ef3615a3c5.png" height="100%" width="100%" />
-    -->
-    <img src="https://user-images.githubusercontent.com/66887467/236269389-0bb2e163-1e89-4b23-bf94-ea7b1405d5d9.png" height="100%" width="100%" />
+    <img src="https://github.com/FrancoGL/FrancoGL/assets/66887467/e95a36c1-bc37-456d-9bbd-93294722510f.png" height="100%" width="100%" />
 </div>
 
 <div>
