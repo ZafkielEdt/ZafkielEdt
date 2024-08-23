@@ -59,7 +59,7 @@
 
 
 
-| <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-ashen-three.vercel.app/api?username=FrancoGL&show_icons=true&theme=aura"/></a> | <a href="https://github.com/FrancoGL/github-readme-stats"><img align="center" src="https://github-readme-stats-ashen-three.vercel.app/api/top-langs/?username=FrancoGL&langs_count=8&layout=compact&theme=aura"/></a> |
+| <a href="https://github.com/ZafkielEdt/github-readme-stats"><img align="center" src="https://github-readme-stats-ashen-three.vercel.app/api?username=ZafkielEdt&show_icons=true&theme=aura"/></a> | <a href="https://github.com/ZafkielEdt/github-readme-stats"><img align="center" src="https://github-readme-stats-ashen-three.vercel.app/api/top-langs/?username=ZafkielEdt&langs_count=8&layout=compact&theme=aura"/></a> |
 | ------------- | ------------- |
 
 
