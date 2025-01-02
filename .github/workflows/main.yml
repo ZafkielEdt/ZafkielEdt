@@ -10,16 +10,36 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Medias
+      - name: Favorites anime and currently watching
         if: ${{ success() || failure() }}
         uses: FrancoGL/metrics@master
         with:
-          filename: medias.svg
+          filename: anilist.anime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
           plugin_anilist_user: Daletkiel
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching, reading, characters
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 4
+      - name: Favorites manga and currenly reading
+        if: ${{ success() || failure() }}
+        uses: FrancoGL/metrics@master
+        with:
+          filename: anilist.manga.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 4
+      - name: Favorites characters
+        if: ${{ success() || failure() }}
+        uses: FrancoGL/metrics@master
+        with:
+          filename: anilist.characters.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
