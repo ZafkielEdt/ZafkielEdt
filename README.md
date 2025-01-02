@@ -63,7 +63,6 @@
 | ------------- | ------------- |
 
 
-[<img align="left" src="/general.svg" alt="Metrics" width="390">](#)
 [<img align="right" src="/medias.svg" alt="Metrics" width="390">](#)
 [<img align="left" src="https://media.tenor.com/1P2shrN7q20AAAAC/aesthetic-anime.gif" width="390">](#)
 </div>
