@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Favorites anime and currently watching
         if: ${{ success() || failure() }}
-        uses: ZafkielEdt/metrics@master
+        uses: ZafkielEdt/metrics@latest
         with:
           filename: anilist.anime.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,7 +24,7 @@ jobs:
           plugin_anilist_limit: 4
       - name: Favorites manga and currenly reading
         if: ${{ success() || failure() }}
-        uses: ZafkielEdt/metrics@master
+        uses: ZafkielEdt/metrics@latest
         with:
           filename: anilist.manga.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -36,7 +36,7 @@ jobs:
           plugin_anilist_limit: 4
       - name: Favorites characters
         if: ${{ success() || failure() }}
-        uses: ZafkielEdt/metrics@master
+        uses: ZafkielEdt/metrics@latest
         with:
           filename: anilist.characters.svg
           token: ${{ secrets.METRICS_TOKEN }}
