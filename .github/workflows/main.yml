@@ -23,12 +23,3 @@ jobs:
           plugin_anilist_sections: favorites, watching, reading, characters
           plugin_anilist_limit: 4
           plugin_anilist_limit_characters: 22
-
-      - name: General
-        if: ${{ success() || failure() }}
-        uses: FrancoGL/metrics@master
-        with:
-          filename: general.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
