@@ -30,6 +30,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
+          plugin_anilist_user: Daletkiel
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, reading
           plugin_anilist_limit: 4
@@ -41,5 +42,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
+          plugin_anilist_user: Daletkiel
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
