@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Medias
         if: ${{ success() || failure() }}
-        uses: ZafkielEdt//metrics@master
+        uses: ZafkielEdt/metrics@master
         with:
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
