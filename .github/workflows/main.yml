@@ -15,7 +15,7 @@ jobs:
         uses: ZafkielEdt/metrics@master
         with:
           filename: medias.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.Metrics }}
           base: ""
           plugin_anilist: yes
           plugin_anilist_user: Daletkiel
